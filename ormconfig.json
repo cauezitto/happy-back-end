@@ -9,5 +9,5 @@
     },
     "entities":[
         "./src/models/*.ts"
-    ]
+    ] 
 }
