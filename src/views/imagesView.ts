@@ -4,7 +4,7 @@ export default {
 
     render(image: Image){
         return{
-            id: image.id,
+            id: image.id, 
             url: `https://stonks-test-api.herokuapp.com/uploads/${image.path}`
         }
     },
